@@ -1,1 +1,24 @@
-# Enhanced_Zomato_Dataset
+📌 Insight Utama :
+1. Top 10 Expensive but Recommended Restaurants by City : Kota Hyderabad memiliki jumlah restoran mahal terbanyak, yaitu 11.121 restoran kategori Others dan 4.492 restoran kategori Recommended. Di sebagian besar kota, jumlah restoran yang tidak direkomendasikan (Others) lebih dominan dibanding yang direkomendasikan.
+Meskipun rata-rata harga per jenis makanan (cuisine) hampir sama di setiap kota, hal ini kemungkinan dipengaruhi oleh gaya hidup dan budaya lokal. Oleh karena itu, penting bagi Zomato untuk memahami kebiasaan konsumsi masyarakat tiap kota agar dapat meningkatkan kepuasan pelanggan melalui rekomendasi yang lebih relevan.
+2. Top 10 Restaurants by Rating : Hanya sedikit restoran yang berhasil mendapatkan rating rata-rata 4.5. Sebagian besar lainnya berada di bawah nilai tersebut.
+Hal ini menunjukkan adanya kesenjangan antara ekspektasi pelanggan dan kualitas layanan yang diberikan. 
+3. Top 5 Cuisines by Average Price : Masakan Andhra menjadi yang paling disukai pelanggan dengan rating rata-rata tertinggi sebesar 4.3. Preferensi kuat ini dapat dimanfaatkan dalam strategi promosi, khususnya di wilayah-wilayah yang belum banyak menawarkan masakan ini.
+4. Top 5 Average Price of Cuisine : Masakan Vietnam memiliki harga rata-rata tertinggi sebesar INR 512.50. Menariknya, jenis masakan ini tidak termasuk dalam 5 besar masakan dengan rating tertinggi.
+Hal ini menunjukkan bahwa harga tinggi belum tentu mencerminkan tingkat kepuasan pelanggan. Analisis lebih lanjut perlu dilakukan untuk melihat apakah pelanggan merasa harga tersebut sebanding dengan pengalaman yang diberikan.
+5. Restaurant Rating by Dining and Delivery :
+Makan di Tempat (Dining): Restoran AB’s Absolute Barbecue memiliki rating tertinggi untuk makan di tempat dengan skor 4.7. Ini menunjukkan pengalaman makan yang memuaskan, baik dari segi pelayanan, kualitas makanan, hingga suasana.
+Pengantaran (Delivery): Restoran Exotica mendapat rating tertinggi dalam layanan pengantaran dengan skor 4.3. Ini menunjukkan efisiensi dalam kecepatan pengiriman dan kondisi makanan saat tiba di pelanggan.
+Namun tidak ada restoran yang memiliki rating yang sama tingginya pada kategori dining dan delivery.
+6. Cuisine Count and Price per Vote : Kategori Beverages memiliki rasio price per vote tertinggi, artinya harga relatif tinggi namun jumlah suara (review) lebih sedikit. Hal ini bisa mengindikasikan bahwa pelanggan menganggap minuman kurang memberikan value atau tidak terlalu berpengaruh terhadap kepuasan.
+Sebaliknya, kategori populer seperti Fast Food dan Pizza menunjukkan rasio harga terhadap suara yang lebih seimbang, menandakan nilai yang dianggap pantas oleh pelanggan.
+
+🛠 Tools :
+Microsoft Excel
+  
+📂 File dalam Repositori : 
+Zomato Dataset.xlsx → File Excel yang sudah dilakukan analisa 
+Data Source https://www.kaggle.com/datasets/gauravkumar2525/zomato-restaurant-dataset
+
+🚀 Cara Menggunakan : 
+Download Zomato Dataset.xlsx untuk mengetahui detail analisis.
